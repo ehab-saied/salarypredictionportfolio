@@ -16,19 +16,19 @@ The target distribution was almost normally distributed and there was some value
 
 ![](/images/1.png)
 ![](/images/2.png)
-![](/images/3.png)
 
 There was a reasonable correlation between most of the features and the target except the job Id which was unique, so we drop it. The bellow graphics shows the relation between companyId, jobType, degree, major, industry, yearsExperience and milesFromMetropolis and the target variable salary respectively:
 
+![](/images/3.png)
 ![](/images/4.png)
 ![](/images/5.png)
 ![](/images/6.png)
 ![](/images/7.png)
 ![](/images/8.png)
-![](/images/9.png)
 
 After separating the categorical variable from the numerical once, we code them with dummy variables and rejoined them again in one dataframe. Separating the new dataframe to 75% train data and 25% test we ran multiple linear regression, random forest regression and gradient boosting regressor models on the train data and then we apply them on the test data and the prediction and the actual values shown in the curves below for three of then respectively:
 
+![](/images/9.png)
 ![](/images/10.png)
 ![](/images/11.png)
 
