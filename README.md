@@ -16,7 +16,7 @@ The target distribution was almost normally distributed and there was some value
 
 ![](/salarypredictionportfolio/images/1.png)
 
-![alt text here](https://github.com/ehab-saied/salarypredictionportfolio/tree/master/images/2.png)
+![alt text here](https://www.github.com/ehab-saied/salarypredictionportfolio/tree/master/images/2.png)
 
 ![pic](https://github.com/ehab-saied/salarypredictionportfolio/tree/master/images/3.png)
 
@@ -30,8 +30,9 @@ There was a reasonable correlation between most of the features and the target e
 
 ![](/images/4.png)
 ![](images/5.png)
-![](http://localhost:8888/view/salarypredictionportfolio/6.png)
-![](http://localhost:8888/view/salarypredictionportfolio/images/7.png)
+![](http://www.localhost:8888/view/salarypredictionportfolio/6.png)
+![](http:\\localhost:8888\view\salarypredictionportfolio\images\7.png)
+![](http:\\www.localhost:8888\view\salarypredictionportfolio\images\7.png)
 ![](/images/8.png)
 ![](images/9.png)
 
