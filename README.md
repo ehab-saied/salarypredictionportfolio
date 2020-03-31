@@ -14,11 +14,11 @@ Using Ubuntu and Python first we load the data to Jupiter Notebook and check the
 
 The target distribution was almost normally distributed and there was some values looks like they are a outliers, but when we checked them closely they were reasonable and acceptable as shown below:
 
-![](/images/1.png)
+![](/salarypredictionportfolio/images/1.png)
 
 ![alt text here](http://localhost:8888/view/salarypredictionportfolio/2.png)
 
-![](/images/3.png)
+![](\images\3.png)
 
 There was a reasonable correlation between most of the features and the target except the job Id which was unique, so we drop it. The bellow graphics shows the relation between companyId, jobType, degree, major, industry, yearsExperience and milesFromMetropolis and the target variable salary respectively:
 
